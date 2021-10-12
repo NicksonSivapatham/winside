@@ -6,6 +6,7 @@ Ce projet à pour but de répondre aux besoins suivant:
 Les résultats sont exposé via un service web.
 
 ## Information
+Le code couvert en test unitaire.
 Les données nécessaire au problème sont stocké dans application.properties:
 - La liste des POI qui est contenu dans src/main/resources/data.tsv
 - Le pas (0.5)
